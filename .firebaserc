@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "polyapp-a836d",
+    "build/bundled": "polyapp-a836d"
+  }
+}
